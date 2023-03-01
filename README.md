@@ -17,7 +17,3 @@ the final result is shown in the result.jpg.
 
 ![f2a91acec6d32346ab070a1fa9213b8](https://user-images.githubusercontent.com/81740803/183564511-64a6f1e7-0113-490d-bb09-ca3c5310defc.png)
 
-
-
-https://user-images.githubusercontent.com/81740803/183564526-0be0ba52-b3d1-4682-bcff-798f722c9584.mp4
-
