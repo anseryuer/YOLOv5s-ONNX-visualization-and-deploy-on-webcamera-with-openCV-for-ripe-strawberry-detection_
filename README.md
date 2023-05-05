@@ -13,4 +13,3 @@ the final result is shown in the result.jpg.
 
 ![result](https://user-images.githubusercontent.com/81740803/183282310-c76a7139-4f24-4b0a-9a08-e35393ab5c2d.jpg)
 
-![image](https://user-images.githubusercontent.com/81740803/183564694-147a60ae-b41a-424a-b537-3a4484ca9034.png)
