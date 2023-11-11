@@ -1,5 +1,9 @@
 # ripe_strawberry_detection_YOLOv5s
 
+Detecting the intended object in ONNX model. When running the python file, a window will pop up on the computer marking the input from the camera with squares.
+
+The current model is for strawberry detection.
+
 ## about the onnx model
 
 detecting ripe strawberry using yolov5
